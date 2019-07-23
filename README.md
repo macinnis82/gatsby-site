@@ -1,4 +1,4 @@
-https://stackshare.io/circleci/automatically-deploy-a-gatsby-site-to-firebase-hosting
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4be037ce-8010-4688-86b0-580437def99c/deploy-status)](https://app.netlify.com/sites/vibrant-villani-22783a/deploys)
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
